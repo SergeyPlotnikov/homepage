@@ -1,0 +1,40 @@
+.name {
+    margin-top: 6px;
+    color: #a6635b;
+}
+
+.categoriesText{
+    color: #a66748;;
+}
+
+.line-top {
+    height: 35px;
+    background: url("images/line-top.jpg") 0 33px repeat-x;
+}
+
+.line-bottom {
+    height: 20px;
+    background: url("images/line-bottom.jpg") 0 2px repeat-x;
+}
+
+.fa-phone, .fa-envelope, .fa-skype, .fa-home {
+    color: #5cb3fd;
+}
+
+.fa-envelope {
+    margin-right: 5px;
+}
+
+.envelope {
+    font-size: 14px;
+    color: #8c8899;
+}
+
+.line {
+    height: 20px;
+    background: url("images/line.jpg") 0 14px repeat-x;
+}
+
+.contact-info {
+    margin-top: 20px;
+}
